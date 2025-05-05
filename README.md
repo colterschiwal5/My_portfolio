@@ -18,3 +18,9 @@ Student at skyline high school with projected graduation in 2028
 
 ### My Role
 Currently I am a Lore Designer, but I want to be a Game Producer
+![woodsmen](https://github.com/rabiescats/Production-Team-1/blob/main/images/geekedbot.gif)
+[Woodsman](https://github.com/rabiescats/Production-Team-1/tree/main)
+
+### assets for project
+![robot](https://github.com/rabiescats/Production-Team-1/blob/main/images/robotFull.png)
+![Sword Arm](https://github.com/rabiescats/Production-Team-1/blob/main/images/SwordArmScreenshot.png)
