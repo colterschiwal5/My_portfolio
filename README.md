@@ -18,11 +18,11 @@ Student at skyline high school with projected graduation in 2028
 
 ### My Role
 Currently I am a Lore Designer, but I want to be a Game Producer
-A billboard that I made because it is in the lore
+* A billboard that I made because it is in the lore
 ![Billboard](https://github.com/colterschiwal5/My_portfolio/blob/main/images/Billboard.png)
-A robot with a chainsaw arm, you will collect this arm from the robot
+* A robot with a chainsaw arm, you will collect this arm from the robot
 ![Chainsaw](https://github.com/colterschiwal5/My_portfolio/blob/main/images/Decomissioned_chainsaw_bot.png)
-The scripting for Woodsman
+* The scripting for Woodsman
 ![Script](https://github.com/colterschiwal5/My_portfolio/blob/main/docs/Script.png)
 
 
